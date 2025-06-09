@@ -14,7 +14,7 @@ setup(
     description="A logic package for parsing, evaluating, classifying, and displaying logical expressions.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Lovisi23/logpack",  # replace with your GitHub repo
+    url="https://github.com/Lovisi23/logic_pack",  # replace with your GitHub repo
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
