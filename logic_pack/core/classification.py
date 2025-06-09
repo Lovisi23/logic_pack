@@ -1,6 +1,6 @@
 import itertools
 
-from logpack.core.evaluator import Evaluator
+from logic_pack.core.evaluator import Evaluator
 
 
 class FormulaClassifier:

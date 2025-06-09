@@ -1,4 +1,4 @@
-from logpack.core.parser import parse_expression
+from logic_pack.core.parser import parse_expression
 
 
 class Evaluator:

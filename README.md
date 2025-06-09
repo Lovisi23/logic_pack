@@ -17,11 +17,11 @@ pip install Logic_Package
 ## Usage
 
 ```python
-from logpack.core.parser import parse_expression
-from logpack.core.evaluator import Evaluator
-from logpack.core.classification import FormulaClassifier
-from logpack.tools.truth_table import TruthTable
-from logpack.tools.utils import normalize_expression, extract_variables, is_valid_expression
+from logic_pack.core.parser import parse_expression
+from logic_pack.core.evaluator import Evaluator
+from logic_pack.core.classification import FormulaClassifier
+from logic_pack.tools.truth_table import TruthTable
+from logic_pack.tools.utils import normalize_expression, extract_variables, is_valid_expression
 
 # 1. Parse an expression
 parsed = parse_expression("¬p ∨ q")
