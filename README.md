@@ -1,4 +1,4 @@
-# package_name
+# logic_pack
 
 The Logic Expressions Package is used to:
 
